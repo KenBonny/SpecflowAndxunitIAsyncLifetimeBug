@@ -1,0 +1,5 @@
+bin/
+obj/
+.idea/
+**/*.feature.cs
+**/*.DotSettings.user
